@@ -1,0 +1,2 @@
+# deneme
+ Deneme amaçlı tanımlanmıştır..
